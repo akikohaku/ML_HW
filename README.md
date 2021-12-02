@@ -6,3 +6,4 @@
 - SVM
 - Decision Tree
 - Ensemble Learning
+- Clustering
