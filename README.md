@@ -7,3 +7,4 @@
 - Decision Tree
 - Ensemble Learning
 - Clustering
+- Dimensionality Reduction
